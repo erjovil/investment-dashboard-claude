@@ -1,0 +1,12 @@
+ticker,shares,avgCost,name
+VOO,100,420.50,Vanguard S&P 500 ETF
+QQQM,75,175.00,Invesco Nasdaq 100 ETF
+SCHG,80,95.00,Schwab US Large-Cap Growth ETF
+SCHD,120,78.00,Schwab US Dividend Equity ETF
+AAPL,50,175.00,Apple Inc
+MSFT,30,380.00,Microsoft Corporation
+NVDA,25,450.00,NVIDIA Corporation
+GOOGL,20,140.00,Alphabet Inc
+VXUS,100,58.00,Vanguard Total International Stock ETF
+BND,150,72.00,Vanguard Total Bond Market ETF
+FXAIX,45,180.00,Fidelity 500 Index Fund

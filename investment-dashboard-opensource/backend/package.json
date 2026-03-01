@@ -1,0 +1,37 @@
+{
+  "name": "investment-dashboard-backend",
+  "version": "1.0.0",
+  "description": "Backend API for Investment Analysis Suite",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "@upstash/redis": "^1.28.0",
+    "axios": "^1.6.0",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "express-rate-limit": "^7.1.5",
+    "express-session": "^1.17.3",
+    "multer": "^1.4.5-lts.1",
+    "pdf-parse": "^1.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [
+    "investment",
+    "portfolio",
+    "finance",
+    "analysis",
+    "dcf",
+    "valuation"
+  ],
+  "license": "MIT"
+}
