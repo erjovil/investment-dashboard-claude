@@ -54,7 +54,7 @@ git clone https://github.com/YOUR_USERNAME/investment-dashboard.git
 ### Step 4: Add Your API Keys
 
 1. Open the `backend` folder
-2. Find the file called `.env` 
+2. Find the file called `.env` - the ".env" file is commonly hidden. If you don't initially see it, make sure you have selected "show hidden files".
 3. Open it with any text editor (Notepad, TextEdit, VS Code)
 4. Replace the placeholder text with your actual API keys
 5. Save the file
